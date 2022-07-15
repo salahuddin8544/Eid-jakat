@@ -72,9 +72,17 @@ h2{
 .donate-img{
     width:40%;
     margin-left: 10%;
+    position: relative;
 }
 .donate-img img{
     border-radius: 10px;
+}
+.donate-img i{
+    position: absolute;
+    top: 43%;
+    left: 24%;
+    color: white;
+    font-size: 86px;
 }
 
 /* donate section end here */
